@@ -1,9 +1,7 @@
-Hi, my name is Tomasz Ogonowski and welcome to my github profile.
-I specialise in projecting and developing websites and web applications.
-
+# Hi, my name is Tomasz Ogonowski and welcome to my github profile.
+I specialise in projecting and developing websites and web applications.  
 
 ## My main projects I'd like you to see
-
 
 ### Blog Managment Web App (Blog Panel)
 
