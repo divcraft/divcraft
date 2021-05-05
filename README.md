@@ -1,4 +1,5 @@
-# Hi, my name is Tomasz Ogonowski and welcome to my github profile. I specialise in projecting and developing websites and web applications.  
+## Welcome
+I am Tomasz Ogonowski and welcome to my github profile. I specialise in projecting and developing websites and web applications.  
 
 ## My main projects I'd like you to see
 
@@ -13,7 +14,7 @@ The most complex and most important project I have made. It containts the bigges
 
 - https://github.com/divcraft/calculator
 
-A standard-mode calculator based on Windows10 system calculator. The whole project has been created without using third-party libraries. Simply structure of code allows you to focus more on its logis. Enjoy.
+A standard-mode calculator based on Windows10 system calculator. The whole project has been created without using third-party libraries. Simply structure of code allows you to focus more on its logic. Enjoy.
 
 
 ### Business card pages
