@@ -1,5 +1,7 @@
 ## Welcome
-I am Tomasz Ogonowski and this is my github profile. I specialise in projecting and developing websites and web applications.  
+I am Tomasz Ogonowski and this is my github profile.
+
+I specialise in projecting and developing websites and web applications.  
 
 ## My main projects I'd like you to see
 
