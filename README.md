@@ -16,7 +16,7 @@ The most complex and most important project I have made. It containts the bigges
 
 - https://github.com/divcraft/calculator
 
-A standard-mode calculator based on Windows10 system calculator. The whole project has been created without using third-party libraries. Simply structure of code allows you to focus more on its logic. Enjoy.
+A standard-mode calculator based on Windows10 system calculator. The whole project has been created without using third-party libraries. Simple structure of code allows you to focus more on its logic. Enjoy.
 
 
 ### Business card pages
@@ -26,7 +26,7 @@ A standard-mode calculator based on Windows10 system calculator. The whole proje
 - https://github.com/divcraft/calineczka
 
 
-These websites has been created to show my ability to implementing visual side of projects. They contain no big logic but instead you can focus your attencion on styles I've created here.
+These websites have been created to show my ability to implement visual side of projects. They contain no big logic but instead you can focus your attention on styles I've created here.
 
 ## Technologies that I use
 
