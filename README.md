@@ -5,7 +5,7 @@ I specialise in projecting and developing websites and web applications.
 
 ## My main projects I'd like you to see
 
-### Blog Managment Web App (Blog Panel)
+### Blog Management Web App (Blog Panel)
 
 - https://github.com/divcraft/divcraft-blog-cms
 
