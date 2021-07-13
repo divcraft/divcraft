@@ -9,7 +9,7 @@ I specialise in projecting and developing websites and web applications.
 
 - https://github.com/divcraft/divcraft-blog-cms
 
-The most complex and most important project I have made. It containts the biggest amount of technologies I'm familiar with. If you want to know precisely what I do, you should start reviewing me with this one. I hope you will like it.
+The most complex and most important project I have made. It contains the biggest amount of technologies I'm familiar with. If you want to know precisely what I do, you should start reviewing me with this one. I hope you will like it.
 
 
 ### Calculator
@@ -26,7 +26,7 @@ A standard-mode calculator based on Windows10 system calculator. The whole proje
 - https://github.com/divcraft/calineczka
 
 
-These websites have been created to show my ability to implement visual side of projects. They contain no big logic but instead you can focus your attention on styles I've created here.
+These websites have been created to show my ability to implement visual side of projects. They contain no big logic but instead you can focus on styles I've created here.
 
 ## Technologies that I use
 
