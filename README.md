@@ -79,7 +79,6 @@ These websites have been created to show my ability to implement visual side of 
 
 ### Others
 - REST API
-- AWS
 - NPM
 - ESlint
 - Stylelint
@@ -88,6 +87,7 @@ These websites have been created to show my ability to implement visual side of 
 - Babel
 - Cloudinary
 - Heroku
+- AWS
 - ...and few others
 
 ## Contact
