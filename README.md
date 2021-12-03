@@ -5,11 +5,21 @@ I specialise in projecting and developing websites and web applications.
 
 ## My main projects I'd like you to see
 
-### Blog Management Web App (Blog Panel)
+### Blog Management Web App (Blog Panel, MERN stack)
 
 - https://github.com/divcraft/divcraft-blog-cms
 
+
+The project has been based on MongoDB, Express, React & Node.js technologies.
+
 The most complex and most important project I have made. It contains the biggest amount of technologies I'm familiar with. If you want to know precisely what I do, you should start reviewing me with this one. I hope you will like it.
+
+
+### divcraft
+
+- https://www.divcraft.pl/
+
+Personal activity consisting in the provision of services in the field of creating static pages based on the Gatsby.js technology.
 
 
 ### Calculator
@@ -34,6 +44,7 @@ These websites have been created to show my ability to implement visual side of 
 - HTML5
 - JavaScript (ES6)
 - React.js
+- Gatsby.js
 
 ### Styling
 - CSS3 / SCSS
@@ -62,6 +73,7 @@ These websites have been created to show my ability to implement visual side of 
 
 ### Databases
 - MongoDB / Mongoose
+- GraphQL
 - SQL
 - phpMyAdmin / MySQL
 
