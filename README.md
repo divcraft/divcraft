@@ -10,7 +10,7 @@ I specialise in projecting and developing websites and web applications.
 - https://github.com/divcraft/divcraft-blog-cms
 
 
-The project has been based on MongoDB, Express, React & Node.js technologies.
+A project made of MongoDB, Express, React & Node.js technologies.
 
 The most complex and most important project I have made. It contains the biggest amount of technologies I'm familiar with. If you want to know precisely what I do, you should start reviewing me with this one. I hope you will like it.
 
