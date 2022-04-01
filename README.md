@@ -43,13 +43,16 @@ These websites have been created to show my ability to implement visual side of 
 ### Basic
 - HTML5
 - JavaScript (ES6)
+- TypeScript
 - React.js
 - Gatsby.js
+- Next.js
 
 ### Styling
 - CSS3 / SCSS
 - Flexbox / CSS Grid
 - Styled Components
+- CSS modules
 - RWD
 
 ### React libraries / ecosystem
